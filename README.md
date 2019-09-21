@@ -7,6 +7,30 @@ It is also "statically typed programming language". Meaning, variables need not 
 
 Kotlin is a slightly higher level language than Java, allowing some more shorthand, compiling onto JVM and JavaScript, and allows for some things that have been learned since beginning of OOP. From that perspective, it is "better" as you should be able to perform more work with less code.
 
+Features
+
+```
+1. Concise
+
+2. Open Source
+
+3. Less error prone
+
+4. Interoperable
+
+5. Trustworthy
+
+
+```
+
+## Processing
+
+Kotlin has its own architecture to allocate memory. It creates byte codes that runs on the JAVA JVM and makes it interoperable.
+
+When Kotlin targets a JavaScript file, the Kotlin compiler converts the .kt file to an exe executable file that generates a compatible code for JavaScript.
+
+## Preferred IDE
+intelliJ
 
 ## Scala versus Kotlin
 
