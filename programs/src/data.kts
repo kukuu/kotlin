@@ -5,4 +5,4 @@ data class Person(val name: String,
                   var email: String,
                   var age: Int)
 
-val john = Person("John", "john@gmail.com", 112)
+val john = Person("Jake", "jake@gmail.com", 112)
