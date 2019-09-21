@@ -29,6 +29,11 @@ Kotlin has its own architecture to allocate memory. It creates byte codes that r
 
 When Kotlin targets a JavaScript file, the Kotlin compiler converts the .kt file to an exe executable file that generates a compatible code for JavaScript.
 
+
+## .iml
+
+This is an XML format file that is generated when a project is created by intelliJ. Stores information about JAVA plugins, including  say MAVEN components. It also shows module paths and other dependencies.
+
 ## Preferred IDE
 intelliJ
 
