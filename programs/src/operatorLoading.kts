@@ -5,6 +5,6 @@ data class Vec(val x: Float, val y: Float) {
 }
 
 
-val v = Vec(3f, 4f) + Vec(5f, 2f)
+val v = Vec(3f, 4f) + Vec(5f, 6f)
 
 
