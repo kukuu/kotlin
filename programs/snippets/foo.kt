@@ -1,7 +1,7 @@
 class Foo {
 
-    val b: String = "b"     // val means unmodifiable
-    var i: Int = 0          // var means modifiable
+    val b: String = "b"     // val means unmodifiable -immutable
+    var i: Int = 0          // var means modifiable - mutable
 
     fun hello() {
         val str = "Hello"
